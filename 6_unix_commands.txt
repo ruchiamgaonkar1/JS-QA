@@ -1,0 +1,12 @@
+rm - remove file/dir
+top - list processes
+touch - create file
+kill - kill processes
+ps -eaf - list processes
+vim - to open editor
+chmod - permissions
+mkdir - dir creation
+chown - ownership changes
+mkfs - format 
+ls - list directory
+

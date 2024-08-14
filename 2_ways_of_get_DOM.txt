@@ -1,0 +1,8 @@
+Write different ways to get the html element from DOM?
+
+getElementById: var element = document.getElementById('elementId');
+getElementsByClassName: var elements = document.getElementsByClassName('className');
+getElementsByTagName: var elements = document.getElementsByTagName('tagName');
+querySelector: var element = document.querySelector('.className');
+querySelectorAll: var elements = document.querySelectorAll('.className');
+getElementsByName: var elements = document.getElementsByName('elementName');
